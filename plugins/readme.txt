@@ -1,4 +1,4 @@
-=== Mutiple blocks plugin example ===
+=== Advanced Gutenberg Block Master Library ===
 Contributors:      AddWeb Solution Pvt. Ltd
 Tags:              block
 Tested up to:      6.4

@@ -1,5 +1,5 @@
 === Advanced Gutenberg Block Master Library ===
-Contributors: addwebsolution
+Contributors: AddWeb Solution Pvt. Ltd
 Tags: gutenberg, blocks, addweb
 Requires at least: 6.1
 Requires PHP: 7.4
